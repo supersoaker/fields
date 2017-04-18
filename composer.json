@@ -1,0 +1,11 @@
+{
+    "name": "supersoaker/fields",
+    "description": "A little composer package for validating and saving some data fields into database",
+    "authors": [
+        {
+            "name": "super.soaker",
+            "email": "dev.supersoaker@gmail.com"
+        }
+    ],
+    "require": {}
+}
